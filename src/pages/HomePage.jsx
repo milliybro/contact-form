@@ -1,6 +1,6 @@
 import React, { Component, createRef } from "react";
 import { Container, Tab, Tabs } from "react-bootstrap";
-import { toast, ToastContainer } from "react-toastify";
+import { toast } from "react-toastify";
 import { v4 } from "uuid";
 
 import ContactCard from "../components/contactCard/ContactCard";
